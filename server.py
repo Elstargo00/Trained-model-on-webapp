@@ -1,10 +1,5 @@
 # Create API of ML model using flask
 
-'''
-This code takes the JSON data while POST request an performs the prediction using loaded model and returns
-the results in JSON format.
-'''
-
 # Import libraries
 import numpy as np
 from flask import Flask, request, render_template

@@ -8,7 +8,7 @@ This model predicts the salary of the employ based on experience using simple li
 import numpy as np
 import pandas as pd
 import pickle
-#import json
+
 
 # Importing the dataset
 dataset = pd.read_csv('Salary_Data.csv')

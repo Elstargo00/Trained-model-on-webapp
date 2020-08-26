@@ -13,7 +13,9 @@ request.py contains the python code to process POST request to server.
 
 pictures: 
 
-![alt text](https://github.com/Elstargo00/Trained-model-on-webapp/images/index.png)
+![alt text](https://github.com/Elstargo00/Trained-model-on-webapp/blob/master/images/index.png)
 
-![alt text](https://github.com/Elstargo00/Trained-model-on-webapp/images/api.png)
+![alt text](https://github.com/Elstargo00/Trained-model-on-webapp/blob/master/images/api.png)
+
+
 
